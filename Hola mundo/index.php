@@ -12,6 +12,7 @@ and open the template in the editor.
     <body>
         <?php
             echo "Jorge Llorca Sendra y Aida Soriano Serra";
+            echo "Copyright";
         ?>
     </body>
 </html>
