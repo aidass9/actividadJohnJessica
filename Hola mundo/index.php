@@ -11,6 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
+            echo "Jorge Llorca Sendra y Aida Soriano Serra";
             echo "Copyright";
         ?>
     </body>
