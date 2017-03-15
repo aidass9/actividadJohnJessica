@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-            echo "Jorge Llorca Sendra y Aida Soriano Serra";
+            echo "Jorge Llorca Sendra (Gandia) y Aida Soriano Serra (Ador)";
         ?>
     </body>
 </html>
